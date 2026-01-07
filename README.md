@@ -1,17 +1,17 @@
-# 💫 About Me:
-🛠️ **I'm currently working on**  <br>I’m currently working at **Dectech** in Évora as a recently hired **Junior Software Engineer**, fully integrated into a fantastic team. My focus is on a set of projects under the **DataFarol** initiative — building lightweight, user-friendly web applications designed to simplify installation, increase productivity, and ultimately drive better results.<br><br>👯 **I'm looking to collaborate on**  <br>I'm proud and grateful to be part of the Dectech team and fully engaged in ongoing collaborations. At the moment, I'm not actively seeking new side-projects, but I’m always happy to connect with like-minded developers.<br><br>🌱 **I'm currently learning**  <br>For the past three years, every single day has been a learning opportunity. The tech world never stops evolving, and neither do I. I’ve been deepening my knowledge in:<br>- 🐍 **Python** <br>- ⚙️ **FastAPI**<br>- 🐳 **Docker**<br>- 🧮 **PostgreSQL** and database design<br>- ⚡ **Data workflows**, including ingestion, transformation and setup automation<br>- 🔌 Seamless API and data integration practices<br><br>I’m always adapting, exploring new tools and improving existing systems.<br><br>💬 **Ask me about**  <br>I’m always open to questions, ideas or technical challenges. I’m very **autodidact** and if I don’t know something yet, I’ll go down the rabbit hole until I figure it out. If your problem sparks my curiosity — we won’t stop until we solve it.<br><br>⚡ **Fun fact**  <br>I once used Python to build a tool for monitoring **ketonemia** in real-time, combining health data and automation to support chronic condition management. It’s one of the projects that reminded me how tech can make a real impact beyond the screen.
+# About Me:
+ **I'm currently working on**  <br>I’m currently working at **Dectech** in Évora as a recently hired **Junior Software Engineer**, fully integrated into a fantastic team. My focus is on a set of projects under the **DataFarol** initiative — building lightweight, user-friendly web applications designed to simplify installation, increase productivity, and ultimately drive better results.<br><br> **I'm looking to collaborate on**  <br>I'm proud and grateful to be part of the Dectech team and fully engaged in ongoing collaborations. At the moment, I'm not actively seeking new side-projects, but I’m always happy to connect with like-minded developers.<br><br> **I'm currently learning**  <br>For the past three years, every single day has been a learning opportunity. The tech world never stops evolving, and neither do I. I’ve been deepening my knowledge in:<br>- 🐍 **Python** <br>- ⚙️ **FastAPI**<br>-  **Docker**<br>-  **PostgreSQL** and database design<br>-  **Data workflows**, including ingestion, transformation and setup automation<br>-  Seamless API and data integration practices<br><br>I’m always adapting, exploring new tools and improving existing systems.<br><br>💬 **Ask me about**  <br>I’m always open to questions, ideas or technical challenges. I’m very **autodidact** and if I don’t know something yet, I’ll go down the rabbit hole until I figure it out. If your problem sparks my curiosity — we won’t stop until we solve it.<br><br> **Fun fact**  <br>I once used Python to build a tool for monitoring **ketonemia** in real-time, combining health data and automation to support chronic condition management. It’s one of the projects that reminded me how tech can make a real impact beyond the screen.
 
 
 <div align="center" style="width: 100%; max-width: 1000px; margin: auto;">
 
-## 🌐 Socials:
+## Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/rubend20)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/rubenduarte20)
 [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:rubenduarte1092@gmail.com)
 
 ---
 
-# 💻 Tech Stack:
+# Tech Stack:
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
@@ -61,24 +61,24 @@
 
 ---
 
-# 📊 GitHub Stats:
+#  GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=Rmcd20&theme=dark&hide_border=false&include_all_commits=false&count_private=true)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=Rmcd20&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Rmcd20&theme=dark&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
 
 ---
 
-## 🏆 GitHub Trophies
+##  GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Rmcd20&theme=dracula&no-frame=false&no-bg=false&margin-w=4)
 
 ---
 
-### ✍️ Random Dev Quote
+###  Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ---
 
-### 🔝 Top Contributed Repo
+###  Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=Rmcd20&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
